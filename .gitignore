@@ -1,0 +1,6 @@
+*.pptx
+renv
+*.Rproj
+.Rhistory
+.Rproj.user
+.Rprofile
